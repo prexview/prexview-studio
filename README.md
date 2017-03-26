@@ -1,4 +1,4 @@
-# prexview-studio
+# Prexview Studio
 
 PrexView Studio gives you the power, flexibility, and speed you have always wanted to craft beautiful designs to generate high volume documents in PDF, HTML, PNG and JPG.
 
